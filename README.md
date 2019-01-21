@@ -1,4 +1,4 @@
-#This is the online repository for: 
+# Online code repository: 
 "Estimating the Effects of Attitude Structure in Shaping Public Opinion: the significance of the political value structures underlying data simulations of information effects"
 
 Authors: W. Zhang, L. Caughell and A. B. Cronkhite
